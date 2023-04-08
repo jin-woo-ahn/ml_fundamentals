@@ -1,3 +1,3 @@
-# ml_fundamentals
+# Machine Learning Fundamentals by Jinwoo Ahn
 
-This is a repository for tutorial guidelines for beginners wanting to learn Machine Learning.
+Do you want to learn the basic ideas behind Machine Learning? Do you want to see code that applies the conceptual knowledge behind each topic? This is a repository for tutorial guidelines for beginners wanting to learn Machine Learning.
