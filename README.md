@@ -6,4 +6,4 @@ To access the tutorials, simply download the directory or the dataset folder and
 
 If there are errors in any of the tutorials or parts that are unclear, feel free to reach out to andrewahn@berkekey.edu.
 
-About Author: The author is a rising junior studying Electrical Engineering & Computer Science (EECS) at UC Berkeley. He is currently doing research on Natural Langauge Processing at Berkeley Artificial Intelligence Research (BAIR).
+About Author: The author is a rising junior studying Electrical Engineering & Computer Science (EECS) at UC Berkeley.
